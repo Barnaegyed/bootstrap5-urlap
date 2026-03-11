@@ -1,4 +1,4 @@
-# Bootstrap 5 demo contact page.
+# Bootstrap 5 contact page.
 
 ## Development
 
@@ -10,4 +10,5 @@
     git status
     git add .
     git commit -m "Message"
+
     git push
